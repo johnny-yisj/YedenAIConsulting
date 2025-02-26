@@ -1,0 +1,19 @@
+These codes are duplicates and they exist in both OSCA and ANZSCO and some of them are different occupations making analysis at reporting level difficult and confusing. 
+Majority of the codes in OSCA are new and never existed before.
+Between different versions of ANZSCO, one code always meant one occupation. 
+Now one code could imply two different occupations. This sort of ambiguity has been introduced with OSCA.
+
+
+121399
+149999
+231199
+311299
+312199
+399599
+399999
+599999
+711199
+831199
+841299
+851299
+899999
